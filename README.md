@@ -1,5 +1,7 @@
 # Hackintosh, MSI PRO Z790-P WIFI, Intel Core i9 12900KS, AMD Radeon Vega VII
 
+![Hackintool - System](https://github.com/user-attachments/assets/e3e4d8a6-9cea-4f79-a706-7a5019a6d681)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.0.1)
